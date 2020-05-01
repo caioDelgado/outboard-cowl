@@ -1,0 +1,20 @@
+{
+  "name": "outboard-cowl",
+  "version": "1.0.0",
+  "description": "A adapter to outboard",
+  "main": "adapters/apib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "outboard", "apib" ],
+  "author": "Caio Delgado <caiodelgado.csd@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "api-elements": "^0.2.4",
+    "drafter": "^1.0.0",
+    "drafter.js": "^3.0.0",
+    "uritemplate": "^0.3.4",
+    "lodash": "^4.17.15",
+    "speakingurl": "^14.0.1"
+  }
+}
